@@ -13,3 +13,10 @@ Task Completion: Allow users to mark tasks as completed or active.
 Task Deletion: Add the option to delete tasks from the list.
 Local Data Storage: Save tasks locally on the device for data persistence.
 User Interface: Design an intuitive and user-friendly interface
+
+Login Process
+ You can login to app using sample user given on login page
+
+ Login Credentials
+ username - login-evoreact@hotmail.com
+ password - App12345
